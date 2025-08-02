@@ -26,18 +26,18 @@ Experience
 Featured Publications
 ------
 -**Journal/Magazine**：
-- **[Hao Xiang**, Tong Zhang and Changyan Yi, ''An Optimization of Feedback Signal Transmission and Reconstruction for Tactile Internet: A Multi-Objective Bayesian Approach'', IEEE Transactions on Network Science and Engineering, accepted. 2025.
-- **Hao Xiang**, Kun Wu, Jiayuan Chen, Changyan Yi, Jun Cai, Dusit Niyato, and Xuemin (Sherman) Shen, "Realizing Immersive Communications in Human Digital Twin by Edge Computing Empowered Tactile Internet: Visions and Case Study," in IEEE Network, vol. 39, no. 4, pp. 271-279, July, 2025.
-- **Hao Xiang**, Ting Zhang, Zhewen Li,Big data cloud platform server load balancing algorithm based on improved chaotic partition algorithm", Has been published, 2021 International Conference on Applied Science and Modern Engineering, Singapore, 2020.
+- [J3] **[Hao Xiang**, Tong Zhang and Changyan Yi, ''An Optimization of Feedback Signal Transmission and Reconstruction for Tactile Internet: A Multi-Objective Bayesian Approach'', IEEE Transactions on Network Science and Engineering, accepted. 2025.
+- [J2] **Hao Xiang**, Kun Wu, Jiayuan Chen, Changyan Yi, Jun Cai, Dusit Niyato, and Xuemin (Sherman) Shen, "Realizing Immersive Communications in Human Digital Twin by Edge Computing Empowered Tactile Internet: Visions and Case Study," in IEEE Network, vol. 39, no. 4, pp. 271-279, July, 2025.
+- [J1] Zhe wen Li, Jing Wang, **Hao Xiang**, Ying Tian, Design and Development of Tour Guide Aircraft Support Software Based on Educational Robots ", Innovation project participant takes on the role of completing the software Development and publication of papers.
 
 -**Conference**：
-- **Hao Xiang**, Tong Zhang, Jiayuan Chen and Changyan Yi, ''Multi-Objective Bayesian Approach for Optimizing Subjective-Objective Performance of Tactile Internet,'' IEEE Global Communication Conference (GLOBECOM), Taipei, Taiwan, Dec. 8-12, 2025.
-- **Hao Xiang**, Tong Zhang, Jiayuan Chen and Changyan Yi, ''Joint Optimization of Feedback Signal Transmission and Reconstruction in Tactile Internet,'' IEEE Global Communication Conference (GLOBECOM), Taipei, Taiwan, Dec. 8-12, 2025.
-- **Hao Xiang**, Zhicheng Dong*, Peng Gu, Yao Wen, Zhijie Xiao, "Research on Recommender System Based on Curiosity Guided ldentity Modification", publication by the AlAM2021, Manchester UK, 2021.
-- Bojun, LI, **Hao Xiang**,Cairang, XiangXiu, Nuo QUN, "Research on State Modeling of Multiple Parsers based on attention mechanis ", publication to thelCHCI2021,China, 2021.
-- PengGu, YingXiao, Zhicheng Dong, **Hao Xiang**, "Yak Object Detection Based on Data Augmentation of Style Transfer Method", publication to the ICESIT2021,China, 2021.
-- Zhijie Xiao, Zhicheng Dong, **Hao Xiang**, "PRSNet: A Masked Self-Supervised Learning Pedestrian Re-ldentification Method", 2022.
-- Zhe wen Li, Jing Wang, **Hao Xiang**, Ying Tian, Design and Development of Tour Guide Aircraft Support Software Based on Educational Robots ", Innovation project participant takes on the role of completing the software Development and publication of papers.
+- [C7] **Hao Xiang**, Tong Zhang, Jiayuan Chen and Changyan Yi, ''Multi-Objective Bayesian Approach for Optimizing Subjective-Objective Performance of Tactile Internet,'' IEEE Global Communication Conference (GLOBECOM), Taipei, Taiwan, Dec. 8-12, 2025.
+- [C6] **Hao Xiang**, Tong Zhang, Jiayuan Chen and Changyan Yi, ''Joint Optimization of Feedback Signal Transmission and Reconstruction in Tactile Internet,'' IEEE Global Communication Conference (GLOBECOM), Taipei, Taiwan, Dec. 8-12, 2025.
+- [C5] **Hao Xiang**, Zhicheng Dong*, Peng Gu, Yao Wen, Zhijie Xiao, "Research on Recommender System Based on Curiosity Guided ldentity Modification", publication by the AlAM2021, Manchester UK, 2021.
+- [C4] Bojun, LI, **Hao Xiang**,Cairang, XiangXiu, Nuo QUN, "Research on State Modeling of Multiple Parsers based on attention mechanis ", publication to thelCHCI2021,China, 2021.
+- [C3] PengGu, YingXiao, Zhicheng Dong, **Hao Xiang**, "Yak Object Detection Based on Data Augmentation of Style Transfer Method", publication to the ICESIT2021,China, 2021.
+- [C2] Zhijie Xiao, Zhicheng Dong, **Hao Xiang**, "PRSNet: A Masked Self-Supervised Learning Pedestrian Re-ldentification Method", 2022.
+- [C1] **Hao Xiang**, Ting Zhang, Zhewen Li,Big data cloud platform server load balancing algorithm based on improved chaotic partition algorithm", Has been published, 2021 International Conference on Applied Science and Modern Engineering, Singapore, 2020.
 
 -**Others：**
 - **Xiang Hao**, Wei Yi; Wan Yu, Luo Yi; Huang Zhenwei, A network engineering junction box, Chinese Patent: CN207572899U, 2018-07-03.
