@@ -12,6 +12,7 @@ About Me
 I am an autumn doctoral student majoring in Computer Science and Technology from Nanjing University of Aeronautics and Astronautics in China. I am honored to become and receive an offer from [Professor Yi](https://www.smilinnet.com/changyan/) of the SmilinNet (Intelligent Mobile 
 Innovation Network) research group. My research mainly focuses on **Tactile Internet** and edge intelligence. More related information can be found in our [magazine paper](https://ieeexplore.ieee.org/document/10769555?source=authoralert). This involves exploring the integration of various **network** technologies, including multi-objective Bayesian optimization, network optimization, and human digital twins. the tactile internet is a disruptive and forward-looking network transmission paradigm that has the potential to completely change all aspects of human life, from healthcare (specifically physical therapy) to manufacturing. His research focuses on the Tactile Internet for human in the loop interaction, exploring the integration of advanced technologies including digital twins, network physical information systems, large language model (LLM) and edge Intelligence. More relevant information can be found in our magazine documents. **If you are interested in collaborating or just chatting, please feel free to contact me via email or add me on WeChat**. We look forward to our dialogue and mutual learning, creating new opportunities for cooperation, just like where there is a will, there is a way and achieve extraordinary things for you and me.  
 
+
 Biography
 ======
 Hao Xiang has been with the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China, as Phd student, from Prof. YI. since September 2022. From September 2019 to August 2022, he worked as a postgraduate in the College of information science and technology, Tibet University, China. He obtained Master's degrees from Tibet University in 2022, under the supervision of [Prof. zhicheng Dong](https://www.tuatrc.com:2021/). His recent research interests multi-objective bayesian, mechanism design, and decision making for various networking systems and services including:
@@ -49,7 +50,7 @@ Featured Publications
 - Zhijie Xiao, Zhicheng Dong, **Hao Xiang**, "PRSNet: A Masked Self-Supervised Learning Pedestrian Re-ldentification Method", 2022.
 - Zhe wen Li, Jing Wang, **Hao Xiang**, Ying Tian, Design and Development of Tour Guide Aircraft Support Software Based on Educational Robots ", Innovation project participant takes on the role of completing the software Development and publication of papers.
 
--**academic achievements：**
+-**Others：**
 - **Xiang Hao**, Wei Yi; Wan Yu, Luo Yi; Huang Zhenwei, A network engineering junction box, Chinese Patent: CN207572899U, 2018-07-03.
 - The first copyright of elk cloud computing service platform v1.0 based on Big data.
 -  Nanjing University of Aeronautics and Astronautics, Kaos Industrial Intelligence Research Institute (Qingdao) Co., Ltd Multi objective Bayesian optimization method for haptic Internet under digital twin system: 202410438676.2 [P]. 2024-07-26
