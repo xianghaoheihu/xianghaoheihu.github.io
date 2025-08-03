@@ -26,7 +26,7 @@ Experience
 Featured Publications
 ------
 -**Journal/Magazine**：
-- [J3] **[Hao Xiang**, Tong Zhang and Changyan Yi, ''An Optimization of Feedback Signal Transmission and Reconstruction for Tactile Internet: A Multi-Objective Bayesian Approach'', IEEE Transactions on Network Science and Engineering, accepted. 2025.
+- [J3] **Hao Xiang**, Tong Zhang and Changyan Yi, ''An Optimization of Feedback Signal Transmission and Reconstruction for Tactile Internet: A Multi-Objective Bayesian Approach'', IEEE Transactions on Network Science and Engineering, accepted. 2025.
 - [J2] **Hao Xiang**, Kun Wu, Jiayuan Chen, Changyan Yi, Jun Cai, Dusit Niyato, and Xuemin (Sherman) Shen, "Realizing Immersive Communications in Human Digital Twin by Edge Computing Empowered Tactile Internet: Visions and Case Study," in IEEE Network, vol. 39, no. 4, pp. 271-279, July, 2025.
 - [J1] Zhe wen Li, Jing Wang, **Hao Xiang**, Ying Tian, Design and Development of Tour Guide Aircraft Support Software Based on Educational Robots ", Innovation project participant takes on the role of completing the software Development and publication of papers.
 
