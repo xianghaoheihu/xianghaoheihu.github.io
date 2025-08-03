@@ -54,12 +54,15 @@ Selected Honors
  - Tibet University Graduate Scholarship, 2019, 2022.
 
 Professional Activities
-• Reviewer
-— IEEE Transactions on Mobile Computing
-— IEEE Transactions on Network Science and Engineering
-— IEEE Internet of Things Journal
-— IEEE GLOBECOM 
-— Youth Editorial Board Member of Applied Artificial Intelligence Research (AAIR) Journal
+------
+- Reviewer
+- IEEE Transactions on Mobile Computing
+- IEEE Transactions on Network Science and Engineering
+- IEEE Internet of Things Journal
+- IEEE GLOBECOM
+- Youth Editorial Board Member of Applied Artificial Intelligence Research (AAIR) Journal
+
+Hobbies
 ------
 Bastketball, Badminton, Staring, Pragramming, Mountain climbing and Cycling etc.
 
