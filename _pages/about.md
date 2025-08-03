@@ -10,7 +10,9 @@ redirect_from:
 About Me
 ======
 I am an autumn doctoral student in Computer Science and Technology at Nanjing University of Aeronautics and Astronautics, China. I am honored to have received an offer to join [Professor Yi](https://www.smilinnet.com/changyan/)'s SmilinNet (Intelligent Mobile Innovation Networking) research group. My research focuses on **Tactile Internet** and edge intelligence (see our recent [magazine paper](https://ieeexplore.ieee.org/document/10769555?source=authoralert). This involves exploring the integration of **network technologies** including multi-objective optimization, network optimization, and human digital twins. The Tactile Internet represents a disruptive networking paradigm with transformative potential across human activities – from healthcare (particularly physical therapy) to manufacturing. Our research specifically investigates human-in-the-loop interaction systems, integrating digital twins, cyber-physical systems, large language models (LLMs), and edge intelligence. More relevant information can be found in our magazine documents. **If you’re interested in collaboration or discussion, please reach out via email or WeChat**. I look forward to meaningful dialogue and exploring new opportunities – where there’s a will, there’s a way to achieve extraordinary outcomes together.
-<img src="../images/group1.png" alt="Tactile Internet">
+
+<img src="../images/group1.png" alt="Tactile Internet" width="300" height="200">
+
 Biography
 ======
 Hao Xiang has been with the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China, as Phd student, from Prof. YI. since September 2022. From September 2019 to August 2022, he worked as a postgraduate in the College of information science and technology, Tibet University, China. He obtained Master's degrees from Tibet University in 2022, under the supervision of [Prof. zhicheng Dong](https://www.tuatrc.com:2021/). His recent research interests multi-objective bayesian, mechanism design, and decision making for various networking systems and services including:
