@@ -11,7 +11,7 @@ About Me
 ======
 I am an autumn doctoral student in Computer Science and Technology at Nanjing University of Aeronautics and Astronautics, China. I am honored to have received an offer to join [Professor Yi](https://www.smilinnet.com/changyan/)'s SmilinNet (Intelligent Mobile Innovation Networking) research group. My research focuses on **Tactile Internet** and edge intelligence (see our recent [magazine paper](https://ieeexplore.ieee.org/document/10769555?source=authoralert). This involves exploring the integration of **network technologies** including multi-objective optimization, network optimization, and human digital twins. The Tactile Internet represents a disruptive networking paradigm with transformative potential across human activities – from healthcare (particularly physical therapy) to manufacturing. Our research specifically investigates human-in-the-loop interaction systems, integrating digital twins, cyber-physical systems, large language models (LLMs), and edge intelligence. More relevant information can be found in our magazine documents. **If you’re interested in collaboration or discussion, please reach out via email or WeChat**. I look forward to meaningful dialogue and exploring new opportunities – where there’s a will, there’s a way to achieve extraordinary outcomes together.
 
-<div style="width: 800px; margin: 0 auto;">
+<div style="width: 700px; margin: 0 auto;">
   <img src="../images/group1.png" alt="Tactile Internet" 
        style="width: 100%; height: auto;">
 </div>
@@ -38,7 +38,7 @@ Featured Publications
 **Conference**：
 - [C7] **Hao Xiang**, Tong Zhang, Jiayuan Chen and Changyan Yi, ''Multi-Objective Bayesian Approach for Optimizing Subjective-Objective Performance of Tactile Internet,'' IEEE Global Communication Conference (GLOBECOM), Taipei, Taiwan, Dec. 8-12, 2025.
 - [C6] **Hao Xiang**, Tong Zhang, Jiayuan Chen and Changyan Yi, ''Joint Optimization of Feedback Signal Transmission and Reconstruction in Tactile Internet,'' IEEE Global Communication Conference (GLOBECOM), Taipei, Taiwan, Dec. 8-12, 2025.
-- [C5] **Hao Xiang**, Zhicheng Dong*, Peng Gu, Yao Wen, Zhijie Xiao, "Research on Recommender System Based on Curiosity Guided ldentity Modification", publication by the AlAM2021, Manchester UK, 2021.
+- [C5] **Hao Xiang**, Zhicheng Dong, Peng Gu, Yao Wen, Zhijie Xiao, "Research on Recommender System Based on Curiosity Guided ldentity Modification", publication by the AlAM2021, Manchester UK, 2021.
 - [C4] Bojun, LI, **Hao Xiang**,Cairang, XiangXiu, Nuo QUN, "Research on State Modeling of Multiple Parsers based on attention mechanis ", publication to thelCHCI2021,China, 2021.
 - [C3] PengGu, YingXiao, Zhicheng Dong, **Hao Xiang**, "Yak Object Detection Based on Data Augmentation of Style Transfer Method", publication to the ICESIT2021,China, 2021.
 - [C2] Zhijie Xiao, Zhicheng Dong, **Hao Xiang**, "PRSNet: A Masked Self-Supervised Learning Pedestrian Re-ldentification Method", 2022.
@@ -65,7 +65,9 @@ Professional Activities
 - IEEE Transactions on Network Science and Engineering
 - IEEE Internet of Things Journal
 - IEEE GLOBECOM
+- Committee
 - Youth Editorial Board Member of Applied Artificial Intelligence Research (AAIR) Journal
+- International of Association of Applied Science and Technology (IAAST) 
 
 Hobbies
 ------
