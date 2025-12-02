@@ -9,7 +9,8 @@ redirect_from:
 ---
 About Me
 ======
-I am an autumn doctoral student in Computer Science and Technology at Nanjing University of Aeronautics and Astronautics, China. I am honored to have received an offer to join [Professor Yi](https://www.smilinnet.com/changyan/)'s SmilinNet (Intelligent Mobile Innovation Networking) research group. My research focuses on **Tactile Internet** and edge intelligence in our recent [magazine paper](https://ieeexplore.ieee.org/document/10769555?source=authoralert). This involves exploring the integration of **network technologies** including multi-objective optimization, network optimization, and human digital twins. The Tactile Internet represents a disruptive networking paradigm with transformative potential across human activities – from healthcare (particularly physical therapy) to manufacturing. Our research specifically investigates human-in-the-loop interaction systems, integrating digital twins, cyber-physical systems, large language models (LLMs), and edge intelligence. More relevant information can be found in our magazine documents. **If you’re interested in collaboration or discussion, please reach out via email or WeChat**. I look forward to meaningful dialogue and exploring new opportunities – where there’s a will, there’s a way to achieve extraordinary outcomes together.
+I am an autumn-entry Ph.D. student in Computer Science and Technology at Nanjing University of Aeronautics and Astronautics, China. I am honored to have received an offer to join [Professor Yi](https://www.smilinnet.com/changyan/)'s SmilinNet (Intelligent Mobile Innovation Networking) research group. My research focuses on **Tactile Internet** and edge intelligence, as discussed in our recent [magazine paper](https://ieeexplore.ieee.org/document/10769555?source=authoralert). This work involves the integration of **networking technologies** such as multi-objective optimization, network optimization, and human digital twins. The Tactile Internet represents a disruptive networking paradigm with transformative potential across various human activities—from healthcare (particularly physical therapy) to manufacturing. Our research specifically investigates human-in-the-loop interactive systems, integrating digital twins, cyber-physical systems, large language models (LLMs), and edge intelligence. Further details can be found in our published magazine articles.
+**If you’re interested in collaboration or discussion, please reach out via email or WeChat**. I look forward to engaging in meaningful dialogue and exploring new opportunities—where there's a will, there's a way to achieve exceptional outcomes together.
 
 <div style="width: 700px; margin: 0 auto;">
   <img src="../images/group1.png" alt="Tactile Internet" 
@@ -22,6 +23,7 @@ Hao Xiang has been with the College of Computer Science and Technology, Nanjing 
   - Tactile Internet
   - Edge Computing and Edge Intelligence
   - Human Digital Twin
+  - Larger Language Model 
 
 Experience
 ------
@@ -30,7 +32,8 @@ Experience
 
 Featured Publications
 ------
-**Journal/Magazine**：
+**Journal/Magazine
+- [J4] **Hao Xiang**, Tong Zhang and Zili Liu, Lucheng Chen, Changyan Yi, ''A Multi-Objective Bayesian Approach for Optimizing E2E Performance of NFV-Based Tactile Internet with Subjective-Objective Evaluation'', ‌‌IEEE Internet of Things Journal, accepted. 2025.
 - [J3] **Hao Xiang**, Tong Zhang and Changyan Yi, ''An Optimization of Feedback Signal Transmission and Reconstruction for Tactile Internet: A Multi-Objective Bayesian Approach'', IEEE Transactions on Network Science and Engineering, accepted. 2025.
 - [J2] **Hao Xiang**, Kun Wu, Jiayuan Chen, Changyan Yi, Jun Cai, Dusit Niyato, and Xuemin (Sherman) Shen, "Realizing Immersive Communications in Human Digital Twin by Edge Computing Empowered Tactile Internet: Visions and Case Study," in IEEE Network, vol. 39, no. 4, pp. 271-279, July, 2025.
 - [J1] Zhe wen Li, Jing Wang, **Hao Xiang**, Ying Tian, Design and Development of Tour Guide Aircraft Support Software Based on Educational Robots ", Innovation project participant takes on the role of completing the software Development and publication of papers.
