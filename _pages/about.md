@@ -9,14 +9,12 @@ redirect_from:
 ---
 About Me
 ======
-I am an autumn-entry Ph.D. student in Computer Science and Technology at Nanjing University of Aeronautics and Astronautics, China. I am honored to have received an offer to join [Professor Yi](https://www.smilinnet.com/changyan/)'s SmilinNet (Intelligent Mobile Innovation Networking) research group. My research focuses on **Tactile Internet** and edge intelligence, as discussed in our recent [magazine paper](https://ieeexplore.ieee.org/document/10769555?source=authoralert). The Tactile Internet represents a disruptive networking paradigm with transformative potential across various human activities—from healthcare (particularly physical therapy) to manufacturing. Our research specifically investigates human-in-the-loop interactive systems, integrating digital twins, cyber-physical systems, large language models (LLMs), and edge intelligence. Further details can be found in our published magazine articles.
-**If you’re interested in collaboration or discussion, please reach out via email or WeChat**. I look forward to engaging in meaningful dialogue and exploring new opportunities—where there's a will, there's a way to achieve exceptional outcomes together.
-
+I am a fall-admitted Ph.D. student in Computer Science and Technology at Nanjing University of Aeronautics and Astronautics, China. I am honored to join [Professor Yi](https://www.smilinnet.com/changyan/)'s SmilinNet (Intelligent Mobile Innovation Networking and Control) research group. My research focuses on Tactile Internet and edge intelligence, as outlined in our [magazine paper](https://ieeexplore.ieee.org/document/10769555?source=authoralert). The Tactile Internet is a transformative networking paradigm with broad applications—from healthcare (especially physical therapy) to manufacturing. Our work centers on human-in-the-loop interactive systems that integrate digital twins, cyber-physical systems, large language models (LLMs), and edge intelligence. More details can be found in our published articles.
+**If you’re interested in collaboration or discussion, please reach out via email or [WeChat(MapReducing)]**. I look forward to meaningful dialogue and new opportunities—together, we can achieve exceptional outcomes.
 <div style="width: 700px; margin: 0 auto;">
   <img src="../images/group1.png" alt="Tactile Internet" 
        style="width: 100%; height: auto;">
 </div>
-
 Biography
 ======
 Hao Xiang has been with the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China, as Phd student, from Prof. YI. since September 2022. From September 2019 to August 2022, he worked as a postgraduate in the College of information science and technology, Tibet University, China. He obtained Master's degrees from Tibet University in 2022, under the supervision of [Prof. zhicheng Dong](https://www.tuatrc.com:2021/). His recent research interests multi-objective bayesian, mechanism design, and decision making for various networking systems and services including:
