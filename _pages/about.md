@@ -10,8 +10,8 @@ redirect_from:
 About Me
 ======
 I am a fall-admitted Ph.D. student in Computer Science and Technology at Nanjing University of Aeronautics and Astronautics, China. I am honored to join [Professor Yi](https://www.smilinnet.com/changyan/)'s SmilinNet (Intelligent Mobile Innovation Networking and Control) research group. My research focuses on Tactile Internet and edge intelligence, as outlined in our [magazine paper](https://ieeexplore.ieee.org/document/10769555?source=authoralert). The Tactile Internet is a transformative networking paradigm with broad applications—from healthcare (especially physical therapy) to manufacturing. Our work centers on human-in-the-loop interactive systems that integrate digital twins, cyber-physical systems, large language models (LLMs), and edge intelligence. More details can be found in our published articles.
-**If you’re interested in collaboration or discussion, please reach out via email or [WeChat(MapReducing)]**. I look forward to meaningful dialogue and new opportunities—together, we can achieve exceptional outcomes.
-<div style="width: 700px; margin: 0 auto;">
+**If you’re interested in collaboration or discussion, please reach out via email or WeChat**. I look forward to meaningful dialogue and new opportunities—together, we can achieve exceptional outcomes.
+<div style="width: 600px; margin: 0 auto;">
   <img src="../images/group1.png" alt="Tactile Internet" 
        style="width: 100%; height: auto;">
 </div>
