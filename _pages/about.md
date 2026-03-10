@@ -22,7 +22,7 @@ Hao Xiang has been with the College of Computer Science and Technology, Nanjing 
   - Tactile Internet
   - Edge Computing and Edge Intelligence
   - Human Digital Twin
-  - Larger Language Model 
+  - Large Language Model 
 
 Experience
 ------
