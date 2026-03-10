@@ -67,6 +67,7 @@ Professional Activities
 - Reviewer
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Network Science and Engineering
+- IEEE Transactions on Network and Service Management
 - IEEE Internet of Things Journal
 - IEEE GLOBECOM
 - Committee
