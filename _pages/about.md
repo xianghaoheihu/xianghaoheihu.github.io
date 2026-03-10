@@ -39,8 +39,9 @@ Featured Publications
 - [J1] Zhe wen Li, Jing Wang, **Hao Xiang**, Ying Tian, Design and Development of Tour Guide Aircraft Support Software Based on Educational Robots ", Innovation project participant takes on the role of completing the software Development and publication of papers.
 
 **Conference**：
-- [C7] **Hao Xiang**, Tong Zhang, Jiayuan Chen and Changyan Yi, ''Multi-Objective Bayesian Approach for Optimizing Subjective-Objective Performance of Tactile Internet,'' IEEE Global Communication Conference (GLOBECOM), Taipei, Taiwan, Dec. 8-12, 2025.
-- [C6] **Hao Xiang**, Tong Zhang, Jiayuan Chen and Changyan Yi, ''Joint Optimization of Feedback Signal Transmission and Reconstruction in Tactile Internet,'' IEEE Global Communication Conference (GLOBECOM), Taipei, Taiwan, Dec. 8-12, 2025.
+- [C8] **Hao Xiang**, Tong Zhang, Jiayuan Chen and Changyan Yi, ''Multi-Objective Bayesian Approach for Optimizing Subjective-Objective Performance of Tactile Internet,'' IEEE Global Communication Conference (GLOBECOM), Taipei, Taiwan, Dec. 8-12, 2025.
+- [C7] **Hao Xiang**, Tong Zhang, Jiayuan Chen and Changyan Yi, ''Joint Optimization of Feedback Signal Transmission and Reconstruction in Tactile Internet,'' IEEE Global Communication Conference (GLOBECOM), Taipei, Taiwan, Dec. 8-12, 2025.
+- [C6] Jiang, Jinghan, and **Hao Xiang**, "TMPVT: few-shot classification of Tibetan medicinal plants using sision transformer." Fifth International Conference on Telecommunications, Optics, and Computer Science (TOCS 2024). Vol. 13629. SPIE, 2025.
 - [C5] **Hao Xiang**, Zhicheng Dong, Peng Gu, Yao Wen, Zhijie Xiao, "Research on Recommender System Based on Curiosity Guided ldentity Modification", publication by the AlAM2021, Manchester UK, 2021.
 - [C4] Bojun, LI, **Hao Xiang**,Cairang, XiangXiu, Nuo QUN, "Research on State Modeling of Multiple Parsers based on attention mechanis ", publication to thelCHCI2021,China, 2021.
 - [C3] PengGu, YingXiao, Zhicheng Dong, **Hao Xiang**, "Yak Object Detection Based on Data Augmentation of Style Transfer Method", publication to the ICESIT2021,China, 2021.
