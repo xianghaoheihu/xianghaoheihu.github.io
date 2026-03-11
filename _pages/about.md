@@ -18,7 +18,7 @@ I am a fall-admitted Ph.D. student in Computer Science and Technology at Nanjing
 
 Biography
 ======
-Hao Xiang has been with the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China, as Phd student, from Prof. YI. since September 2022. From September 2019 to August 2022, he worked as a postgraduate in the College of information science and technology, Tibet University, China. He obtained Master's degrees from Tibet University in 2022, under the supervision of [Prof. zhicheng Dong](https://www.tuatrc.com:2021/). His recent research interests multi-objective bayesian, mechanism design, and decision making for various networking systems and services including:
+[Hao Xiang](https://scholar.google.com/citations?user=IdR2EDgAAAAJ&hl=zh-CN) has been with the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA), China, as Phd student, from Prof. YI. since September 2022. From September 2019 to August 2022, he worked as a postgraduate in the College of information science and technology, Tibet University, China. He obtained Master's degrees from Tibet University in 2022, under the supervision of [Prof. zhicheng Dong](https://www.tuatrc.com:2021/). His recent research interests multi-objective bayesian, mechanism design, and decision making for various networking systems and services including:
   - Tactile Internet
   - Edge Computing and Edge Intelligence
   - Human Digital Twin
